@@ -14,3 +14,13 @@
 .App > .Footer {
 	margin-top: auto;
 }
+
+li > button {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	margin: 2rem 0;
+	border: none;
+	background: inherit;
+	cursor: pointer;
+}
